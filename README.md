@@ -1,6 +1,6 @@
-# 🌿 Green Property Exchange
+# Green Property Exchange
 
-An interactive Object-Oriented Programming (OOP) Java Swing application developed for **CCPROG3** (Computer Programming 3) that implements the **Model-View-Controller (MVC)** architectural pattern.
+An interactive Object-Oriented Programming (OOP) Java Swing application developed for **CCPROG3** that implements the **Model-View-Controller (MVC)** architectural pattern.
 
 ## Project Description
 
